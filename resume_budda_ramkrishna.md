@@ -32,11 +32,18 @@ Fresher graduate with a Bachelor of Arts degree from Rayalaseema University (202
 ---
 
 ## PROJECTS
-### Project 1: [Project Name]
-- **Description:** [Brief description of what the project does]
-- **Technologies Used:** Python, SQL
-- **Outcome:** [Results and achievements]
-- **Repository:** [Link to GitHub repo if available]
+
+### Project 1: Console Menu System (ram888.py)
+- **Description:** A comprehensive interactive console-based menu system that allows users to navigate through multiple levels of menus and submenus. The application demonstrates object-oriented programming principles and system control capabilities.
+- **Technologies Used:** Python, OS Module
+- **Key Features:**
+  - Master menu with 4 main navigation options
+  - General Programs submenu (Good Morning, Good Afternoon, Good Night greetings)
+  - System Control submenu (Shutdown and Restart functionality)
+  - Applications Launcher submenu (Calculator, Notepad, MS Paint)
+  - Dynamic menu navigation with return-to-home functionality
+- **Outcome:** Successfully created a fully functional menu-driven application for system control and application management
+- **Repository:** [Console Menu System](https://github.com/buddaramkrish6302-netizen/automatic-enigma/blob/main/ram888.py)
 
 ### Project 2: [Project Name]
 - **Description:** [Brief description]
